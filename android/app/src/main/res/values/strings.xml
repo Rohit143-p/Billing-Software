@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RevenueFlow</string>
+    <string name="title_activity_main">RevenueFlow</string>
+    <string name="package_name">io.revenueflow.app</string>
+    <string name="custom_url_scheme">io.revenueflow.app</string>
+</resources>
